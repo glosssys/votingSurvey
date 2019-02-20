@@ -1,0 +1,12 @@
+name: ABTest
+title: ABTest
+username:
+account: leaderx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 595088
+bundleId: 1738453
+url: https://leaderx.shinyapps.io/ABTest/
+when: 1543906571.1625
+asMultiple: FALSE
+asStatic: FALSE
